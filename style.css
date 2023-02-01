@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:crimson;
+    background-color:antiquewhite;
     font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: column;
@@ -18,7 +18,7 @@ body {
 }
 
 .testimonial-container {
-    background-color: firebrick;
+    background-color: crimson;
     color: #fff;
     border-radius: 15px;
     margin: 20px auto;
